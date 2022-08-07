@@ -402,88 +402,6 @@ https://stream-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:0 tvg-id="ext" group-title="GENERAL ENTERTAINMENT",Paramount Network Asia
 https://iptv-sniper.herokuapp.com/localtv.php?channel=59
 
-#EXTINF:0 tvg-id="ext" group-title="INDIAN ENTERTAINMENT",Star World HD India
-http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="StarWorldPremierHD.in" group-title="INDIAN ENTERTAINMENT",Star World Premiere HD
-http://103.179.246.243:8000/play/a00a
-#EXTINF:0 tvg-id="ColorsInfinity.in" group-title="INDIAN ENTERTAINMENT",Colors Infinity
-http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-id="TV5MONDEAsie.fr" group-title="FRENCH ENTERTAINMENT",TV5Monde Asie
-https://stream-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
-#EXTINF:0 tvg-id="M6INTERNATIONAL" group-title="FRENCH ENTERTAINMENT",M6 International
-https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264
-
-#EXTINF:0 tvg-id="ext" group-title="CHINESE ENTERTAINMENT",Astro AEC
-http://iptv12k.com:35461/live/80301070602/456776/709.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CHINESE ENTERTAINMENT",Astro Quan Jia HD
-http://iptv12k.com:35461/live/80301070602/456776/710.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CHINESE ENTERTAINMENT",Astro Shuang Xing
-http://iptv12k.com:35461/live/80301070602/456776/706.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CHINESE ENTERTAINMENT",CCTV 4 Asia
-http://rr2.dens.tv/s/s19/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CHINESE ENTERTAINMENT",TDM Macau
-http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CHINESE ENTERTAINMENT",TVB Xing He
-http://171.110.62.170:8181/tsfile/live/1004_1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CHINESE ENTERTAINMENT",Xing Kong TV
-https://stream-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
-
-#EXTINF:0 tvg-id="TVE24h.pt" group-title="SPANISH ENTERTAINMENT",TVE Internacional
-http://rr.dens.tv/h/h158/index2.m3u8
-#EXTINF:0 tvg-id="Antena3.mx" group-title="SPANISH ENTERTAINMENT",Antena 3 Internacional
-https://mdstrm.com/live-stream-playlist/5cae574f875a4e1adebe5c39.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
-
-#EXTINF:0 tvg-id="ATV.tr" group-title="TURKISH ENTERTAINMENT",ATV Avrupa
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/296360.m3u8
-#EXTINF:0 tvg-id="EuroD.tr" group-title="TURKISH ENTERTAINMENT",Euro D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKISH ENTERTAINMENT",Euro Star
-http://iptvmasterlink.dyndns.org:8080/EuroStar/playlist.m3u8
-#EXTINF:0 tvg-id="Kanal7.tr" group-title="TURKISH ENTERTAINMENT",Kanal 7 Avrupa
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
-#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="TURKISH ENTERTAINMENT",TGRT EU
-https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
-#EXTINF:0 tvg-id="TRTturk.tr" group-title="TURKISH ENTERTAINMENT",TRT Türk
-https://tv-trtturk.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKISH ENTERTAINMENT",TV8 Int
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/43500.m3u8
-
-#EXTINF:0 tvg-id="AbuDhabiTV.uk" group-title="ARABIC ENTERTAINMENT",Abu Dhabi TV
-https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="AlEmarat.net" group-title="ARABIC ENTERTAINMENT",Al Emarat
-https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="DubaiOne.net" group-title="ARABIC ENTERTAINMENT",Dubai One
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="DubaiTVHD.net" group-title="ARABIC ENTERTAINMENT",Dubai TV
-https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="MBC1.net" group-title="ARABIC ENTERTAINMENT",MBC
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
-#EXTINF:0 tvg-id="MBC4.net" group-title="ARABIC ENTERTAINMENT",MBC 4
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-
-#EXTINF:0 tvg-id="Paramounthd.br" group-title="BRASILIAN ENTERTAINMENT",Paramount Network Brasil
-http://200.220.133.82:8000/play/PARAMOUNT
-#EXTINF:0 tvg-id="Space.br" group-title="BRASILIAN ENTERTAINMENT",Space Brasil
-http://170.82.200.38:8080/space/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="Fox.br" group-title="BRASILIAN ENTERTAINMENT",Star Channel Brasil
-http://187.85.237.3:8220/ipvt_002
-#EXTINF:0 tvg-id="Foxlife.br" group-title="BRASILIAN ENTERTAINMENT",Star Life Brasil
-http://200.4.96.59:8002/play/ufgd/index.m3u8
-#EXTINF:0 tvg-id="Tnt.br" group-title="BRASILIAN ENTERTAINMENT",TNT Brasil
-http://170.82.200.38:8080/tnt/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="LATINO ENTERTAINMENT",Comedy Central
-https://cvi.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
-#EXTINF:0 tvg-id="Space.br" group-title="LATINO ENTERTAINMENT",Space
-https://cvi.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
-#EXTINF:0 tvg-id="otr" group-title="LATINO ENTERTAINMENT",Star Channel
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
-#EXTINF:0 tvg-id="24dok" group-title="LATINO ENTERTAINMENT",TBS
-https://cvi.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
-#EXTINF:0 tvg-id="tnt" group-title="LATINO ENTERTAINMENT",TNT
-https://cvi.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="AMERICAN ENTERTAINMENT",E! East
 https://networkbest.ru.com/cdn/premium315/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="AMERICAN ENTERTAINMENT",USA Network East
@@ -500,42 +418,6 @@ https://networkbest.ru.com/cdn/premium338/tracks-v1a1/mono.m3u8
 http://new-pro.tv:8080/mazen1/123456/302584
 #EXTINF:0 tvg-id="ext" group-title="AMERICAN ENTERTAINMENT",Disney Channel East
 https://networkbest.ru.com/cdn/premium312/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="RUSSIAN ENTERTAINMENT",Пятница! International
-https://sc.id-tv.kz:443/friday_34_35.m3u8
-#EXTINF:0 tvg-id="evrazia" group-title="RUSSIAN ENTERTAINMENT",Первый канал Евразия
-http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
-#EXTINF:0 tvg-id="rtrpl" group-title="RUSSIAN ENTERTAINMENT",РТР-Планета
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RUSSIAN ENTERTAINMENT",Рен ТВ International
-https://sc.id-tv.kz/RenTV_34_35.m3u8
-
-#EXTINF:0 tvg-id="ERTWorld.ca" group-title="EUROPEAN ENTERTAINMENT",ERT World
-http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
-#EXTINF:0 tvg-id="eurochannel" group-title="EUROPEAN ENTERTAINMENT",Eurochannel
-http://84.22.33.214/EuroChannel/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="EUROPEAN ENTERTAINMENT",Das Erste International
-https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
-#EXTINF:0 tvg-id="RaiItalia.cl" group-title="EUROPEAN ENTERTAINMENT",Rai Italia
-http://rr3.dens.tv/s/s63/index2.m3u8
-#EXTINF:0 tvg-id="RTPi.pt" group-title="EUROPEAN ENTERTAINMENT" user-agent="Opera",RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:0 tvg-id="TVRInternational.ro" group-title="EUROPEAN ENTERTAINMENT",TVR International
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1120000.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="WORLD ENTERTAINMENT",ABC Australia Asia
-https://stream-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
-#EXTINF:0 tvg-id="ext" group-title="WORLD ENTERTAINMENT",PRIMEtime
-https://nonton.site:8443/live/mustakim/mustakim/37458.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WORLD ENTERTAINMENT",LBC International
-https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="PINOY ENTERTAINMENT",TFC Asia-Pacific
-https://tfcguam2-abscbn-ono.amagi.tv/index_5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PINOY ENTERTAINMENT",TAP TV
-https://ycMdjSbYby.akamaized.net/out/u/12507.mpd
-#EXTINF:0 tvg-id="ext" group-title="PINOY ENTERTAINMENT",TAP Edge
-https://bit.ly/FEITAN-TAP-EDGE
 
 #EXTINF:0 tvg-id="ext" group-title="NATIONAL MUSIC",Music TV
 https://stream-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
@@ -568,17 +450,6 @@ http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="MusicIndia.uk" group-title="INDIAN MUSIC",Music India
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 
-#EXTINF:0 tvg-id="KralPop.tr" group-title="TURKISH MUSIC",Kral
-https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
-#EXTINF:0 tvg-id="KralPop.tr" group-title="TURKISH MUSIC",Kral Pop
-http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
-#EXTINF:0 tvg-id="TRTMuzik.tr" group-title="TURKISH MUSIC",TRT Müzik
-https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 tvg-id="PowerTurk.tr" group-title="TURKISH MUSIC",PowerTürk
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:0 tvg-id="PowerTV.pl" group-title="TURKISH MUSIC",Power TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="EUROPEAN MUSIC",VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:0 tvg-id="M6MusicHits.fr" group-title="EUROPEAN MUSIC",M6 Music
@@ -603,11 +474,6 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=75
 https://www.navchina.cf/IPTV/sbs.php?id=S09
 #EXTINF:0 tvg-id="ext" group-title="ASIAN MUSIC",MTV Japan
 http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="LATINO MUSIC",MTV Latino Sud
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
-#EXTINF:0 tvg-id="TraceLatina.uk" group-title="LATINO MUSIC",Trace Latina
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="GENERAL MOVIES",HBO Asia
 https://stream-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
@@ -644,6 +510,8 @@ https://stream-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 http://51.81.208.129:35461/live/80301062102/732099/722.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ASIAN MOVIES",MyCinema Asia
 http://rr.dens.tv/h/h193/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ASIAN MOVIES",Zee Bioskop
+https://stream-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:0 tvg-id="ext" group-title="NATIONAL MOVIES",IMC
 https://stream-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
@@ -654,119 +522,12 @@ https://tvn10.xyz/Meta/master-2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NATIONAL MOVIES",Sinema Indonesia
 http://203.77.246.50:5000/udp/239.1.1.74:5000
 
-#EXTINF:0 tvg-id="StarMovies.in" group-title="INDIAN MOVIES",Star Movies
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDIAN MOVIES",Star Movies Select
-http://103.179.246.243:8000/play/a00w
-#EXTINF:0 tvg-id="MoviesNow.in" group-title="INDIAN MOVIES",Movies Now
-http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:35:B2:F6&stream=862687&extension=ts
-#EXTINF:0 tvg-id="RomedyNow.in" group-title="INDIAN MOVIES",Romedy Now
-http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDIAN MOVIES",MN+
-http://103.179.246.243:8000/play/a00u
-#EXTINF:0 tvg-id="ext" group-title="INDIAN MOVIES",MNX
-http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:8f:0e:3c&stream=862683&extension=ts
-#EXTINF:0 tvg-id="SonyPIX.in" group-title="INDIAN MOVIES",Sony Pix
-https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
-#EXTINF:0 tvg-id="ext" group-title="INDIAN MOVIES",& flix
-http://103.179.246.243:8000/play/a00p
-#EXTINF:0 tvg-id="ext" group-title="INDIAN MOVIES",& privé
-http://103.179.246.243:8000/play/a01d
-#EXTINF:0 tvg-id="UTVAction.in" group-title="INDIAN MOVIES",UTV Action
-http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
-#EXTINF:0 tvg-id="UTVMovies.in" group-title="INDIAN MOVIES",UTV Movies
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="PINOY MOVIES",Viva Cinema
-https://iptv-sniper.herokuapp.com/localtv.php?channel=13
-#EXTINF:0 tvg-id="ext" group-title="PINOY MOVIES",PBO
-https://iptv-sniper.herokuapp.com/localtv.php?channel=12
-#EXTINF:0 tvg-id="ext" group-title="PINOY MOVIES",Tagalized Movie Channel
-https://iptv-sniper.herokuapp.com/localtv.php?channel=9
-#EXTINF:0 tvg-id="ext" group-title="PINOY MOVIES",Celestial Movies Pinoy
-http://tiny.one/celestialpinoy
-#EXTINF:0 tvg-id="ext" group-title="PINOY MOVIES",TAP Movies
-https://bit.ly/FEITAN-TAP-MOVIES
-#EXTINF:0 tvg-id="ext" group-title="PINOY MOVIES",TAP Action Flix
-https://bit.ly/FEITAN-TAP-ACTION-FLIX
-#EXTINF:0 tvg-id="ext" group-title="PINOY MOVIES",Cinema One
-https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemaone/CDN/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="CHINESE MOVIES",Celestial Movies Indonesia
 https://stream-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 #EXTINF:0 tvg-id="ext" group-title="CHINESE MOVIES",Celestial Classic Movies
 https://stream-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 #EXTINF:0 tvg-id="ext" group-title="CHINESE MOVIES",Star Chinese Movies
 http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="VIETNAMESE MOVIES",K+ Cine
-https://kplus-livecdn.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMWNpbmVfMjAwMC5zdHJlYW18b3RoZXJ8MTY1MzEzMTU0MXwxMDMuMjAwLjIyLjIxMnw4NGY5NDhmYmI1MDUzY2JhN2EyNDg1NjA1NDk5Yjk1ZQ/drmlive/14022022k1cine_4000.stream/manifest.mpd
-#EXTINF:0 tvg-id="ext" group-title="VIETNAMESE MOVIES",HTVC Phim
-https://livecdn.fptplay.net/sdb/htvcmovieshd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="HINDI MOVIES",Zee Bioskop
-https://stream-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
-#EXTINF:0 tvg-id="Pictures.in" group-title="HINDI MOVIES",& pictures
-http://208.86.19.13:81/705.stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="HINDI MOVIES",& xplor
-http://208.86.19.13:81/730.stream/index.m3u8
-#EXTINF:0 tvg-id="ZeeAction.in" group-title="HINDI MOVIES",Zee Action
-http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="HINDI MOVIES",Zee Anmol Cinema
-http://208.86.19.13:81/722.stream/index.m3u8
-#EXTINF:0 tvg-id="ZeeBollywood.us" group-title="HINDI MOVIES",Zee Bollywood
-http://208.115.215.42:80/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="HINDI MOVIES",Astro BollyOne HD
-http://iptv12k.com:35461/live/80301070602/456776/685.m3u8
-#EXTINF:0 tvg-id="ext" group-title="HINDI MOVIES",Sony Max India
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="SonyMax2.in" group-title="HINDI MOVIES",Sony Max 2
-http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="HINDI MOVIES",Zee Cinema Asia
-http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="HINDI MOVIES",Colors Cineplex
-http://208.86.19.13:81/735.stream/index.m3u8
-#EXTINF:0 tvg-id="StarGold.uk" group-title="HINDI MOVIES",Star Gold
-http://208.86.19.13:81/717.stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="HINDI MOVIES",Star Gold 2
-http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="HINDI MOVIES",Star Gold Select
-http://208.86.19.13:81/709.stream/index.m3u8
-
-#EXTINF:0 tvg-id="20Mediaset.it" group-title="ITALIAN MOVIES",20 Mediaset
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/961.m3u8
-#EXTINF:0 tvg-id="Cine34.it" group-title="ITALIAN MOVIES",Cine 34
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/296084.m3u8
-#EXTINF:0 tvg-id="Iris.it" group-title="ITALIAN MOVIES",Iris
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2002.m3u8
-#EXTINF:0 tvg-id="PremiumCinema1.it" group-title="ITALIAN MOVIES",Premium Cinema 1
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/997.m3u8
-#EXTINF:0 tvg-id="PremiumCinema2.it" group-title="ITALIAN MOVIES",Premium Cinema 2
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/6789.m3u8
-#EXTINF:0 tvg-id="PremiumCinema3.it" group-title="ITALIAN MOVIES",Premium Cinema 3
-http://new-pro.tv:8080/mazen1/123456/67217
-#EXTINF:0 tvg-id="RaiMovie.it" group-title="ITALIAN MOVIES",Rai Movie
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1980.m3u8
-#EXTINF:0 tvg-id="RaiPremium.it" group-title="ITALIAN MOVIES",Rai Premium
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/906.m3u8
-#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="ITALIAN MOVIES",Sky Cinema Action
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/913.m3u8
-#EXTINF:0 tvg-id="SkyCinemaCollection.it" group-title="ITALIAN MOVIES",Sky Cinema Collection
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/9473.m3u8
-#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="ITALIAN MOVIES",Sky Cinema Comedy
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/914.m3u8
-#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="ITALIAN MOVIES",Sky Cinema Drama
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/9490.m3u8
-#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="ITALIAN MOVIES",Sky Cinema Family
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/916.m3u8
-#EXTINF:0 tvg-id="SkyCinemaDue.it" group-title="ITALIAN MOVIES",Sky Cinema Due
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/998.m3u8
-#EXTINF:0 tvg-id="SkyCinemaRomance.it" group-title="ITALIAN MOVIES",Sky Cinema Romance
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/917.m3u8
-#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="ITALIAN MOVIES",Sky Cinema Uno
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/282264.m3u8
-#EXTINF:0 tvg-id="SkyCinemaSuspense.it" group-title="ITALIAN MOVIES",Sky Cinema Suspense
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/9486.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="JAPANESE MOVIES",Star 1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -789,221 +550,6 @@ https://iptv-thai.herokuapp.com/tv.php?channel=115415
 https://iptv-thai.herokuapp.com/tv.php?channel=115665
 #EXTINF:0 tvg-id="ext" group-title="THAI MOVIES",True Movie Hits
 https://iptv-thai.herokuapp.com/tv.php?channel=115729
-
-#EXTINF:0 tvg-id="CinecanalW.mx" group-title="LATINO MOVIES",Cinecanal
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
-#EXTINF:0 tvg-id="CinemaxO.mx" group-title="LATINO MOVIES",Cinemax
-https://cvi.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
-#EXTINF:0 tvg-id="HBOAdria.rs" group-title="LATINO MOVIES",HBO
-https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="LATINO MOVIES",HBO 2 Latinoamérica
-https://cvi.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="LATINO MOVIES",HBO Mundi Latinoamérica
-https://cvi.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
-#EXTINF:0 tvg-id="HBOSignature.mx" group-title="LATINO MOVIES",HBO Signature Latinoamérica
-https://cvi.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="LATINO MOVIES",HBO Xtreme Latinoamérica
-https://cvi.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
-#EXTINF:0 tvg-id="HBOPlusEste.ar" group-title="LATINO MOVIES",HBO Plus Panamericano
-https://cvi.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
-
-#EXTINF:0 tvg-id="Hbo.br" group-title="BRASILIAN MOVIES",HBO Brasil
-http://189.91.128.146:4444/udp/227.10.20.94:1234
-#EXTINF:0 tvg-id="Hbo2.br" group-title="BRASILIAN MOVIES",HBO 2 Brasil
-http://189.91.128.146:4444/udp/227.10.20.95:1234
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="BRASILIAN MOVIES",HBO Family Brasil
-http://189.91.128.146:4444/udp/227.10.20.97:1234
-#EXTINF:0 tvg-id="Maxprime.br" group-title="BRASILIAN MOVIES",HBO Xtreme Brasil
-http://189.91.128.146:4444/udp/227.10.20.100:1234
-#EXTINF:0 tvg-id="Hboplus.br" group-title="BRASILIAN MOVIES",HBO Plus Brasil
-http://189.91.128.146:4444/udp/227.10.20.96:1234
-#EXTINF:0 tvg-id="Hbosignature.br" group-title="BRASILIAN MOVIES",HBO Signature Brasil
-http://189.91.128.146:4444/udp/227.10.20.98:1234
-#EXTINF:0 tvg-id="Max.br" group-title="BRASILIAN MOVIES",HBO Mundi Brasil
-http://200.4.96.59:8002/play/a0f0/index.m3u8
-#EXTINF:0 tvg-id="Maxup.br" group-title="BRASILIAN MOVIES",HBO Pop Brasil
-http://189.91.128.146:4444/udp/227.10.20.99:1234
-#EXTINF:0 tvg-id="Megapix.br" group-title="BRASILIAN MOVIES",Megapix
-http://189.91.128.146:4444/udp/227.10.20.89:1234
-#EXTINF:0 tvg-id="Tcaction.br" group-title="BRASILIAN MOVIES",Telecine Action
-http://187.85.237.26:8825/ipvt_004
-#EXTINF:0 tvg-id="Tccult.br" group-title="BRASILIAN MOVIES",Telecine Cult
-http://187.85.237.34:8825/ipvt_001
-#EXTINF:0 tvg-id="Tcfun.br" group-title="BRASILIAN MOVIES",Telecine Fun
-http://200.4.96.59:8003/play/a04m/index.m3u8
-#EXTINF:0 tvg-id="Tcpipoca.br" group-title="BRASILIAN MOVIES",Telecine Pipoca
-http://187.85.237.25:8825/ipvt_005
-#EXTINF:0 tvg-id="Tcpremium.br" group-title="BRASILIAN MOVIES",Telecine Premium
-http://187.85.237.34:8825/ipvt_002
-#EXTINF:0 tvg-id="Tctouch.br" group-title="BRASILIAN MOVIES",Telecine Touch
-http://187.85.237.3:8220/ipvt_005
-
-#EXTINF:0 tvg-id="Film4.uk" group-title="BRITISH MOVIES",Film 4 UK
-http://93.152.174.144:4000/play/film4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BRITISH MOVIES",Great! Movies Action
-http://45.153.35.210:8000/play/UK_great_action_sd/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BRITISH MOVIES",Great! Movies Classic
-http://45.153.35.210:8000/play/UK_great_classic_sd/index.m3u8
-#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="BRITISH MOVIES",Sky Cinema Action
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1092.m3u8
-#EXTINF:0 tvg-id="SkyCinemaAnimation.de" group-title="BRITISH MOVIES",Sky Cinema Animation
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1090.m3u8
-#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="BRITISH MOVIES",Sky Cinema Comedy
-http://new-pro.tv:8080/mazen1/123456/68548
-#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="BRITISH MOVIES",Sky Cinema Drama
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1089.m3u8
-#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="BRITISH MOVIES",Sky Cinema Family
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/727.m3u8
-#EXTINF:0 tvg-id="SkyBrits.uk" group-title="BRITISH MOVIES",Sky Cinema Greats
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1087.m3u8
-#EXTINF:0 tvg-id="SkyCinemaHits.uk" group-title="BRITISH MOVIES",Sky Cinema Hits
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1086.m3u8
-#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="BRITISH MOVIES",Sky Cinema Premiere
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1085.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BRITISH MOVIES",Sky Cinema Sci-fi Horror
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/725.m3u8
-#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="BRITISH MOVIES",Sky Cinema Select
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/726.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BRITISH MOVIES",Sky Cinema Thriller
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1082.m3u8
-
-#EXTINF:0 tvg-id="tv1000-action" group-title="FRENCH MOVIES",Action
-http://zeintv.xyz:8080/live/ammar2/ammar3/55360.ts
-#EXTINF:0 tvg-id="ext" group-title="FRENCH MOVIES",Canal + Cinéma France
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/172.m3u8
-#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="FRENCH MOVIES",Cine + Émotion
-http://zeintv.xyz:8080/live/ammar2/ammar3/55264.ts
-#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="FRENCH MOVIES",Cine + Premier
-http://zeintv.xyz:8080/live/ammar2/ammar3/55347.ts
-#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="FRENCH MOVIES",Cine + Famiz
-http://zeintv.xyz:8080/live/ammar2/ammar3/55263.ts
-#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="FRENCH MOVIES",Cine + Classic
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/175.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRENCH MOVIES",Paramount Channel France
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1183.m3u8
-
-#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="GERMAN MOVIES",Sky Cinema Action
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1659.m3u8
-#EXTINF:0 tvg-id="SkyCinemaBestOf.de" group-title="GERMAN MOVIES",Sky Cinema Best Of
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2119.m3u8
-#EXTINF:0 tvg-id="SkyCinemaClassic.it" group-title="GERMAN MOVIES",Sky Cinema Classics
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/91126.m3u8
-#EXTINF:0 tvg-id="SkyCinemaFun.de" group-title="GERMAN MOVIES",Sky Cinema Fun
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/91120.m3u8
-#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="GERMAN MOVIES",Sky Cinema Family
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2118.m3u8
-#EXTINF:0 tvg-id="SkyPremieren.de" group-title="GERMAN MOVIES",Sky Cinema Premieren
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2117.m3u8
-#EXTINF:0 tvg-id="SkyCinemaSpecial.de" group-title="GERMAN MOVIES",Sky Cinema Special
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/29070.m3u8
-#EXTINF:0 tvg-id="ext" group-title="GERMAN MOVIES",Sky Cinema Thriller
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/91116.m3u8
-#EXTINF:0 tvg-id="ext" group-title="GERMAN MOVIES",Warner TV Film
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2087.m3u8
-
-#EXTINF:0 tvg-id="M.Accion.es" group-title="SPANISH MOVIES",Movistar Acción
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1148.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPANISH MOVIES",Movistar Cine Ñ
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/64788.m3u8
-#EXTINF:0 tvg-id="M.Comedia.es" group-title="SPANISH MOVIES",Movistar Comedia
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1146.m3u8
-#EXTINF:0 tvg-id="M.CineEspanol.es" group-title="SPANISH MOVIES",Movistar Drama
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1144.m3u8
-#EXTINF:0 tvg-id="M.Estrenos.es" group-title="SPANISH MOVIES",Movistar Estrenos
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1143.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPANISH MOVIES",Movistar Estrenos 2
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/295135.m3u8
-#EXTINF:0 tvg-id="MovistarDisney.es" group-title="SPANISH MOVIES",Movistar Fest
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/168992.m3u8
-
-#EXTINF:0 tvg-id="AXNBlack.pt" group-title="PORTUGUESE MOVIES",AXN Movies
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1471.m3u8
-#EXTINF:0 tvg-id="Cinemundo.pt" group-title="PORTUGUESE MOVIES",Cine Mundo
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1477.m3u8
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="PORTUGUESE MOVIES",Fox Movies Portugal
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1457.m3u8
-#EXTINF:0 tvg-id="NOSStudios.pt" group-title="PORTUGUESE MOVIES",NOS Studios
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1454.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE MOVIES",TVCine Action
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1452.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE MOVIES",TVCine Emotion
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/82254.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE MOVIES",TVCine Edition
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1448.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE MOVIES",TVCine Top
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1446.m3u8
-
-#EXTINF:0 tvg-id="beINMovies1Premiere.qa" group-title="ARABIC MOVIES",beIN Movies 1 Premiere
-http://starshare.live:8080/live/usman007/usman007/4694.ts
-#EXTINF:0 tvg-id="beINMovies2Action.qa" group-title="ARABIC MOVIES",beIN Movies 2 Action
-http://starshare.live:8080/live/usman007/usman007/4695.ts
-#EXTINF:0 tvg-id="beINMovies3Drama.qa" group-title="ARABIC MOVIES",beIN Movies 3 Drama
-http://starshare.live:8080/live/usman007/usman007/4696.ts
-#EXTINF:0 tvg-id="beINMovies4Family.qa" group-title="ARABIC MOVIES",beIN Movies 4 Family
-http://starshare.live:8080/live/usman007/usman007/4697.ts
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="ARABIC MOVIES",Fox Movies
-http://starshare.live:8080/live/usman007/usman007/4708.ts
-#EXTINF:0 tvg-id="FoxActionMovies.qa" group-title="ARABIC MOVIES",Fox Action Movies
-http://starshare.live:8080/live/usman007/usman007/4709.ts
-#EXTINF:0 tvg-id="FoxFamilyMovies.qa" group-title="ARABIC MOVIES",Fox Family Movies
-http://starshare.live:8080/live/usman007/usman007/4710.ts
-#EXTINF:0 tvg-id="ext" group-title="ARABIC MOVIES",OSN Enigma
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2856.m3u8
-#EXTINF:0 tvg-id="OSNMoviesAction.net" group-title="ARABIC MOVIES",OSN Movies Action
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2860.m3u8
-#EXTINF:0 tvg-id="OSNMoviesPremiere.net" group-title="ARABIC MOVIES",OSN Movies Premiere
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/22118.m3u8
-#EXTINF:0 tvg-id="OSNFirst.net" group-title="ARABIC MOVIES",OSN Movies First
-http://new-pro.tv:8080/mazen1/123456/3519
-#EXTINF:0 tvg-id="ext" group-title="ARABIC MOVIES",OSN Movies Hollywood
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/71110.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ARABIC MOVIES",Star Movies Middle East
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/280254.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="TURKISH MOVIES",beIN Box Office 1 Türkiye
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/536.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKISH MOVIES",beIN Box Office 2 Türkiye
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/281863.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKISH MOVIES",beIN Box Office 3 Türkiye
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/538.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKISH MOVIES",beIN Movies Premiere
-http://starshare.live:8080/live/usman007/usman007/5083.ts
-#EXTINF:0 tvg-id="ext" group-title="TURKISH MOVIES",beIN Movies Premiere 2
-http://starshare.live:8080/live/usman007/usman007/5084.ts
-#EXTINF:0 tvg-id="MoviemaxAction.tr" group-title="TURKISH MOVIES",beIN Movies Action
-http://starshare.live:8080/live/usman007/usman007/5086.ts
-#EXTINF:0 tvg-id="MoviemaxAction2.tr" group-title="TURKISH MOVIES",beIN Movies Action 2
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/278527.m3u8
-#EXTINF:0 tvg-id="MoviemaxStars.tr" group-title="TURKISH MOVIES",beIN Movies Stars
-http://starshare.live:8080/live/usman007/usman007/5085.ts
-#EXTINF:0 tvg-id="MoviemaxFamily.tr" group-title="TURKISH MOVIES",beIN Movies Family
-http://starshare.live:8080/live/usman007/usman007/5087.ts
-#EXTINF:0 tvg-id="MoviemaxTurk.tr" group-title="TURKISH MOVIES",beIN Movies Turk
-http://starshare.live:8080/live/usman007/usman007/5088.ts
-#EXTINF:0 tvg-id="ext" group-title="TURKISH MOVIES",Sinema TV
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1790.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKISH MOVIES",Sinema 2
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1774.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKISH MOVIES",Sinema Komedi
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1795.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKISH MOVIES",Sinema Komedi 2
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/43541.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKISH MOVIES",Sinema Aksiyon
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1793.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKISH MOVIES",Sinema Aksiyon 2
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1772.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKISH MOVIES",Sinema Aile
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1794.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKISH MOVIES",Sinema Aile 2
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/165582.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKISH MOVIES",Sinema Yerli
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1791.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKISH MOVIES",Sinema Yerli 2
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/163186.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKISH MOVIES",Sinema 1001
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1789.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKISH MOVIES",Sinema 1002
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/76722.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="KIDS",Kids TV
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
@@ -1775,29 +1321,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BRUNEI",RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="INDIA",& tv
-http://208.86.19.13:81/703.stream/index.m3u8
-#EXTINF:0 tvg-id="Colors.in" group-title="INDIA",Colors
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="E24.in" group-title="INDIA",e24
-http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
-#EXTINF:0 tvg-id="set" group-title="INDIA",Sony TV
-http://221.120.204.4:80/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="SONYSAB.uk" group-title="INDIA",Sony Sab
-http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="StarBharat.uk" group-title="INDIA",Star Bharat
-http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
-#EXTINF:0 tvg-id="StarPlus.in" group-title="INDIA",Star Plus
-http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDIA",Zee Anmol
-http://208.115.215.42:80/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDIA",Zee TV India
-http://221.120.204.4/zee-tv-LOCKLE/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDIA",Zing Asia
-https://iamsom5.vercel.app/api/autoq.php?c=Zing
-#EXTINF:0 tvg-id="Zoom.in" group-title="INDIA",Zoom
-http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="JAPAN",NHK General TV
 https://nhk2.mov3.co/hls/nhk.m3u8
 #EXTINF:0 tvg-id="ext" group-title="JAPAN",NHK Educational TV
@@ -2162,36 +1685,6 @@ http://node-02.zeno.fm:80/1n8mba13zqruv?rj-ttl=5&rj-tok=AAABd71VoMIAqmerQClkP_PC
 #EXTINF:0 tvg-id="avi" group-title="RADIO INDONESIA",Visi FM
 https://i.klikhost.com/8274/;stream.mp3
 
-#EXTINF:0 tvg-id="avi" group-title="PINOY RADIO",DZRH News
-https://streamingv2.shoutcast.com/dzrhmanila?type=.mp3
-#EXTINF:0 tvg-id="ext" group-title="PINOY RADIO",Energy 106.7
-https://onlineradiobox.com/json/ph/dwet/play?platform=web
-#EXTINF:0 tvg-id="ext" group-title="PINOY RADIO",Home Radio
-https://onlineradiobox.com/json/ph/dwqz/play?platform=web
-#EXTINF:0 tvg-id="ext" group-title="PINOY RADIO",Love Radio
-https://s3.radio.co/sd43d6cc6d/listen
-#EXTINF:0 tvg-id="ext" group-title="PINOY RADIO",Magic 89.9
-https://stream.zeno.fm/fw1368t3vc9uv
-#EXTINF:0 tvg-id="ext" group-title="PINOY RADIO",Monster RX 93.1
-https://ph-icecast-win.eradioportal.com:8443/monsterrx
-#EXTINF:0 tvg-id="ext" group-title="PINOY RADIO",Play FM
-https://stream.zenolive.com/ktsuntffnpeuv
-#EXTINF:0 tvg-id="ext" group-title="PINOY RADIO",Star FM
-http://node-22.zeno.fm/n51d54pctrquv?rj-ttl=5&rj-tok=AAABd8KK9r4AH0xsfAgNsn51Xw
-#EXTINF:0 tvg-id="ext" group-title="PINOY RADIO",Super Radyo DZBB
-http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PINOY RADIO",TeleRadyo
-http://node-27.zeno.fm/vcv559su7mruv?rj-ttl=5&rj-tok=AAABd84ATQkAGayGAIHdxnRsZQ
-#EXTINF:0 tvg-id="ext" group-title="PINOY RADIO",V81 Radio
-http://162.244.80.52:5960/;stream.aac
-#EXTINF:0 tvg-id="ext" group-title="PINOY RADIO",Wild FM
-https://stream.zeno.fm/257h4znsgy8uv
-#EXTINF:0 tvg-id="ext" group-title="PINOY RADIO",Win Radio
-https://streamingv2.shoutcast.com/915-win-radio-manila
-#EXTINF:0 tvg-id="ext" group-title="PINOY RADIO",Wish 107.5
-https://play.wishfm.com/radio/wish.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PINOY RADIO",Yes 101.1
-https://s2.radio.co/sa85100da7/listen
 
 #EXTINF:0 tvg-id="BFMTV.fr" group-title="MALAY RADIO",BFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/BFMAAC.aac?dist=onlineradiobox
@@ -2446,19 +1939,6 @@ https://cdnyogyakartapro4.rri.co.id/web-rrijogjapro4.mp3
 https://stream.streamaudio.de:8000/teststream3
 #EXTINF:0 tvg-id="avi" group-title="RRI RADIO",RRI Voice of Indonesia
 http://streaming.rri.co.id:9125/voi.mp3
-
-#EXTINF:0 tvg-id="Antena1.ro" group-title="PORTUGUESE RADIO",Antena 1
-https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE RADIO",Antena 2
-https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
-#EXTINF:0 tvg-id="Antena3.ro" group-title="PORTUGUESE RADIO",Antena 3
-https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE RADIO",RDP Internacional
-https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE RADIO",Rádio Comercial
-https://media1.mcr.iol.pt/livefm/comercial/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE RADIO",Cidade FM
-https://media1.mcr.iol.pt/livefm/cidade/livefm/cidade_128k/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="SINGAPOREAN RADIO",987
 https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac
